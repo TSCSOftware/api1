@@ -3,7 +3,7 @@
     
     "index": 1,
     "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?&per_page=5&_embed",
-    "title": "cat 1",
+    "title": "විද්‍යාත්මක",
     "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
     "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
   },
@@ -11,7 +11,7 @@
     
     "index": 1,
     "route": "accusamus beatae ad facilis cum similique qui sunt",
-    "title": "cat 2",
+    "title": "හොදම ගියක හොදම අරුත",
     "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
     "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
   },
@@ -21,7 +21,7 @@
     
     "index": 1,
     "route": "accusamus beatae ad facilis cum similique qui sunt",
-    "title": "cat 3",
+    "title": " තාක්ෂණික",
     "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
     "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
   },
@@ -29,7 +29,7 @@
     
     "index": 1,
     "route": "accusamus beatae ad facilis cum similique qui sunt",
-    "title": "test name",
+    "title": "covid-19",
     "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
     "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
   }
