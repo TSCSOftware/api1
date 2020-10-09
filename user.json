@@ -3,34 +3,34 @@
     
     "index": 1,
     "route": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?&per_page=5&_embed",
-    "name": "test name",
-    "email": "test@gmail.com",
-    "picture":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
+    "title": "තාරකා විද්‍යාව",
+    "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
+    "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
   },
   {
     
     "index": 1,
     "route": "accusamus beatae ad facilis cum similique qui sunt",
-    "name": "test name",
-    "email": "test@gmail.com",
-    "picture":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
+    "title": "ගීයක අරුත ",
+    "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
+    "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
   },
    
    
    {
     
-    "index1": 1,
+    "index": 1,
     "route": "accusamus beatae ad facilis cum similique qui sunt",
-    "name": "test name",
-    "email": "test@gmail.com",
-    "picture":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
+    "title": " android",
+    "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
+    "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
   },
   {
     
-    "index1": 1,
+    "index": 1,
     "route": "accusamus beatae ad facilis cum similique qui sunt",
-    "name": "test name",
-    "email": "test@gmail.com",
-    "picture":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
+    "title": "apple",
+    "icon": "https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm",
+    "bgimg":"https://2.gravatar.com/avatar/bdff9cb533b9fd8ce7ddd7b73a39c48f?s=400&d=mm"
   }
   ]
