@@ -1,0 +1,1 @@
+FileSystemException: Directory listing failed, path = ' /storage/emulated/0/DCIM/Camera/IMG_20210104_171818.jpg /' (OS Error: No such file or directory, errno = 2)
